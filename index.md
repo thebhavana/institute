@@ -29,10 +29,10 @@
                 <img class="object-cover object-center rounded" alt="hero" src="https://source.unsplash.com/720x600/?college,students">
               </div>
               <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Let's get ready to
-                  <br class="hidden lg:inline-block">attend colleges
+                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">XXaviers
+                  <br class="hidden lg:inline-block">Technology
                 </h1>
-                <p class="mb-8 leading-relaxed">Don't try to be perfect. Just try to be better than you were ysterday. We are here to help students like you to gain knowledge and achieve excellence in both curriculum and other co-curricular activities. It's not about having time ,but making it. Develop your skills and sharpen them joining our college.</p>
+                <p class="mb-8 leading-relaxed">Always try to be better than ysterday. We are here to help students to gain knowledge and excellence in both curriculum and co-curricular activities. Develop your skills by joining one of the top colleges.</p>
                 <div class="flex justify-center">
                   <img src="https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif" height="300" width="300" class="center">
                 </div>
@@ -52,11 +52,6 @@
                     <div class="flex-grow">
                       <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Teachers</h2>
                       <p class="leading-relaxed text-base">I have been teaching here for so many years. It has been a great experience for me to teach students and provide them great career oppurtunities by preparing them with skills and encouraging them to learn .</p>
-                      <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                          <path d="M5 12h14M12 5l7 7-7 7"></path>
-                        </svg>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -70,12 +65,7 @@
                     </div>
                     <div class="flex-grow">
                       <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Student</h2>
-                      <p class="leading-relaxed text-base">Yes, we get good guidance from teachers and mentors here. We are also able to engage in other activities. Sports is just amazing. We also have tournaments and round for cricket, soccer, chess, badminton , volleyball every 3 months.</p>
-                      <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                          <path d="M5 12h14M12 5l7 7-7 7"></path>
-                        </svg>
-                      </a>
+                      <p class="leading-relaxed text-base">We have amazing teachers and mentors. We get to learn a lot from them. We also have tournaments of sports.</p>
                     </div>
                   </div>
                 </div>
@@ -86,7 +76,7 @@
             <div class="container px-5 py-24 mx-auto flex flex-wrap">
               <div class="flex w-full mb-20 flex-wrap">
                 <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">COURSES OFFERED</h1>
-                <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">  Bachelor's of Technology in Computer Science , Bachelor's of Technology in Electronics, Bachelor's of Technology in Electrical, Bachelor's of Technology in Civil ,Bachelor's of Technology in Mechanical,  </p>
+                <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">  Bachelor's of Technology Degree in Computer Science,Electronics,Electrical,Civil,Mechanical</p>
               </div>
               <div class="flex flex-wrap md:-m-2 -m-1">
                 <div class="flex flex-wrap w-1/2">
@@ -124,7 +114,7 @@
                 </div>
                 <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                   <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Library</h2>
-                  <p class="leading-relaxed text-base">College has a huge library of 65,000 books based on science and technology, sports ,literature, music and other. Library building allows you to read books and take notes and is open upto 9pm. You can also issue books based on your interest for 1 month. We are soon going to provide you online library facility so that you can read books at your ease.</p>
+                  <p class="leading-relaxed text-base">College has a huge library of 65,000 books based on science and technology, sports ,literature, music and other. Library building allows you to read books and take notes and is open upto 9pm.</p>
                   <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                       <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -252,7 +242,7 @@
             <div class="container px-5 py-24 mx-auto">
               <div class="flex flex-col text-center w-full mb-20">
                 <h1 class="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">STUDENTS CLUB</h1>
-                <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Be a part of students team, by joining teams of your interests. You get a good oppurtunity to work with seniors of your teams. So, get engaged with your favourite teams. Be passionate while working with teams and bring out the best in you.</p>
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Be a part of students team, by joining teams of your interests. You get a good oppurtunity to work with seniors. Be passionate to bring out your best.</p>
               </div>
               <div class="flex flex-wrap -m-4">
                 <div class="p-4 lg:w-1/2">
@@ -261,7 +251,7 @@
                     <div class="flex-grow sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-gray-900">Media & Publication Club</h2>
                       <h3 class="text-gray-500 mb-3">Social</h3>
-                      <p class="mb-4"> Students publication integrate fashion, art, politics, and issues impacting campus life, aiming to spark conversation while offering a providing ground for aspiring journalists. If you love graphic design, digital media, or photography or have aspirations to be a reporter, videographer, designer, or even social media expert you must join this club.</p>
+                      <p class="mb-4"> Students publication integrate fashion, art, politics, and issues impacting campus life, aiming to spark conversation while offering a providing ground for aspiring journalists.</p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -288,7 +278,7 @@
                     <div class="flex-grow sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-gray-900">Political Club</h2>
                       <h3 class="text-gray-500 mb-3">Ideas</h3>
-                      <p class="mb-4">This gives you the platform to confront issues that are important to you, to support a candidate who shares your political  views, or to connect with like-minded students and professors. It may invite politicians or civic leaders to speak, opening the door for aspiring students to develop relationship with influencers.</p>
+                      <p class="mb-4">This gives you the platform to confront issues that are important to you, to support a candidate who shares your political  views, or to connect with like-minded students and professors.</p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -315,7 +305,7 @@
                     <div class="flex-grow sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-gray-900">Theater & Arts Club</h2>
                       <h3 class="text-gray-500 mb-3">Talent</h3>
-                      <p class="mb-4">This can be a fun outlet for someone with love of theater. It offers an array of oppurtunities, from experimental performance art to broadway musical style band shakespearen fare. If the thought of appearing on Broadway makes you tingle, this club is a ticket for you. Musical groups are part of this club.</p>
+                      <p class="mb-4">This can be a fun outlet for someone with love of theater. It offers an array of oppurtunities, from experimental performance art to broadway musical style band shakespearen fare.</p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -342,7 +332,7 @@
                     <div class="flex-grow sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-gray-900">Sports & Recreation Club</h2>
                       <h3 class="text-gray-500 mb-3">Health</h3>
-                      <p class="mb-4">College sports are a big deal on many campuses. It offers intramural activities in an enormous range of sports. You also have chances to travel other colleges in order to compete. Traditional sports like soccer, baseball , and volleyball are great, you also can be part of cricket team, kabaddi team or indoor games team. yogas and exercises are best part of this club. It looks over your physical and mental health.</p>
+                      <p class="mb-4">College sports are a big deal on many campuses. It offers intramural activities in an enormous range of sports. You also have chances to travel other colleges in order to compete soccer, baseball, volleyball and other matches.</p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -387,7 +377,7 @@
               </div>
               <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
                 <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Apply for admissions</h2>
-                <p class="leading-relaxed mb-5 text-gray-600">Want to know more about college or apply for admission process. Feel free to connect and send your feedback and queries to us.</p>
+                <p class="leading-relaxed mb-5 text-gray-600">Contact Us</p>
                 <div class="relative mb-4">
                   <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
                   <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
@@ -473,7 +463,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Coding and Programming</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Science</h1>
-                      <p class="leading-relaxed mb-3">Coding and Programming interviews include major topics like Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, Linux commands and Concepts, Computer Science basics, and many more.</p>
+                      <p class="leading-relaxed mb-3">Coding and Programming interviews include major topics like Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, and many more.</p>
                       <div class="flex items-center flex-wrap ">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
