@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang ="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width-device-width,initial scal=1.0">
-        <title>Document</title>
+        
         <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     </head>
     <body>
@@ -284,7 +284,7 @@
                 </div>
                 <div class="p-4 lg:w-1/2">
                   <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://source.unsplash.com/201x201/?political,leaders">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://source.unsplash.com/201x201/?constitution,government">
                     <div class="flex-grow sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-gray-900">Political Club</h2>
                       <h3 class="text-gray-500 mb-3">Ideas</h3>
