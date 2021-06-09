@@ -135,7 +135,7 @@
               <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
                 <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                   <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Events</h2>
-                  <p class="leading-relaxed text-base">Cultural events, singing competition, drawing and poster competition, dance ,speech events, guest speeches, other events , celebrating festivals and staying update with latest events and technolgy is major part of it. It inbuilts students skills and increase thier power in real worls apart from books. It's considered to be best part about colleges.</p>
+                  <p class="leading-relaxed text-base">Cultural events, singing competition, drawing and poster competition, dance ,speech events, guest speeches, other events , celebrating festivals and staying uptodate with latest events and technolgy.</p>
                   <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                       <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                   <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Sports</h2>
-                  <p class="leading-relaxed text-base">Great facility with all the equipment you need and also freindly staff. This combination promotes a healthy environment for everyone trying to get in shape. College has a gym club for training, group exerciseand  yoga. Thier are also sports trainer for cricket, soccer ,carrom, chess, volleyball and badminton. You can rise yourself in sports section</p>
+                  <p class="leading-relaxed text-base">Sports in college promotes a healthy environment for everyone trying to get in shape. College has a gym club for training, group exerciseand  yoga. Thier are also sports trainer for cricket, soccer ,carrom, chess, volleyball and badminton.</p>
                   <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                       <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -415,7 +415,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Sports</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Chess</h1>
-                      <p class="leading-relaxed mb-3">It's a mind game to save king and win other king's territory with checkmate principle. 64 boxes, 2 kings, 2 queens, 4 bishops, 4 rooks, 4 knights and 16 pawns with fixed rules like touch and play and many.Let's know more about this ancient Persian game which fastly spread throughout the world. A game of patience of mind.</p>
+                      <p class="leading-relaxed mb-3">It's a mind game to save king and win other king's territory with checkmate principle. 64 boxes, 2 kings, 2 queens, 4 bishops, 4 rooks, 4 knights and 16 pawns with fixed rules like touch and play and many.</p>
                       <div class="flex items-center flex-wrap ">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -444,7 +444,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Classical Dance</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Arts</h1>
-                      <p class="leading-relaxed mb-3">Dances in India comprises numerous styles of dances, generally classified as classical or folk. As per aspects of Indian culture, diffrent dance forms have been originated in different part of India, developed according to the local traditions and also imbibed elements from other parts of country. Sangeet Natya Academy, the national academy for performing arts in India, recogonizes eight traditional dances as Indian classical dances, while other scholars and sources recogonize more.</p>
+                      <p class="leading-relaxed mb-3">Dance in India comprises numerous styles of dances, as classical or folk. As per aspects of Indian culture, they have been originated in different parts of India, according to the local traditions. Sangeet Natya Academy, the national academy for performing arts in India, recogonizes eight traditional dances as Indian classical dances.</p>
                       <div class="flex items-center flex-wrap">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -473,7 +473,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Coding and Programming</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Science</h1>
-                      <p class="leading-relaxed mb-3">Coding and Programming interviews cover major topics. They include Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, Linux commands and Concepts, Computer Science basics, Computer Networks, Object-Oriented Programming Concepts and Dynamic Programming. You can also prepare for bonus topics like AWS, Docker and Kubernotes.</p>
+                      <p class="leading-relaxed mb-3">Coding and Programming interviews include Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, Linux commands and Concepts, Computer Science basics, Computer Networks, Object-Oriented Programming Concepts and Dynamic Programming. </p>
                       <div class="flex items-center flex-wrap ">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
