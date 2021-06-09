@@ -29,19 +29,24 @@ Agile Manifesto -: Values Promoted in Agile
 |Responding to change|Following a plan         |
 
 _**Agile Principles**_
-1. Our highest priority is to satisfy the customer through early and continuos delivery of valuable software.
-2. Welcome changing requirements, even late in development. Agile processes harness changes for the customer's competitive advantage.
-3. Deliver working software frequently, from a couple of weeks to a couple of months, with preference to the shorter timescale.
-4. Business people and developers must work daily throughout the project.
-5. Build project around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-7. Working software is the primary measure of progress.
-8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-9. Continuous attention to technical excellence and good design enhances agility.
-10. Simplicity-the art of maximizing the amount of work not done-is essential.
-11. The best architecture, requirements, and design emerges from self-organising teams.
-12. At regular intervals the team reflects on how to become more effective, the tunes and adjusts its behaviour accordingly.
+
+* Our highest priority is to satisfy the customer through early and continuos delivery of valuable software.
+*  Welcome changing requirements, even late in development. Agile processes harness changes for the customer's competitive advantage.
+* Deliver working software frequently, from a couple of weeks to a couple of months, with preference to the shorter timescale.
+* Business people and developers must work daily throughout the project.
+* Build project around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+* The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+* Working software is the primary measure of progress.
+* Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+* Continuous attention to technical excellence and good design enhances agility.
+* Simplicity-the art of maximizing the amount of work not done-is essential.
+* The best architecture, requirements, and design emerges from self-organising teams.
+* At regular intervals the team reflects on how to become more effective, the tunes and adjusts its behaviour accordingly.
  
  _**Benefits of Agile**_
- 1. Transparency
- 2. 
+ 
+ * Transparency
+ * Predictable Costs and Schedule
+ * Allows for Change
+ * Improves Quality
+ 
