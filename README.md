@@ -1,7 +1,10 @@
 **_College Site_**
-https://media.gipy.com/media/MFOgIs6abu083mQUUh/giphy.gif
 
-thebhavana.github.io/institute/
+ <img src="https://media.giphy.com/media/MFOgIs6abu083mQUUh/giphy.gif" width="100" height="100"/>
+
+ 
+https://thebhavana.github.io/institute/
+
 
 > What comes to your mind reading this? Looking to visit colleges for further studies.
  
