@@ -51,7 +51,7 @@
                     </div>
                     <div class="flex-grow">
                       <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Teachers</h2>
-                      <p class="leading-relaxed text-base">I have been teaching here for so many years. It has been a great experience for me to teach students and provide them great career oppurtunities by preparing them with skills and encouraging them to learn .</p>
+                      <p class="leading-relaxed text-base">I have been teaching here for so many years. It has been a great experience for me to teach students and providing them great oppurtunities.</p>
                     </div>
                   </div>
                 </div>
@@ -330,9 +330,9 @@
                   <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                     <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://source.unsplash.com/206x206/?health,sports,games">
                     <div class="flex-grow sm:pl-8">
-                      <h2 class="title-font font-medium text-lg text-gray-900">Sports & Recreation Club</h2>
+                      <h2 class="title-font font-medium text-lg text-gray-900">Sports Club</h2>
                       <h3 class="text-gray-500 mb-3">Health</h3>
-                      <p class="mb-4">College sports are a big deal on many campuses. It offers intramural activities in an enormous range of sports. You also have chances to travel other colleges in order to compete soccer, baseball, volleyball and other matches.</p>
+                      <p class="mb-4">College sports are a big deal on many campuses. It offers intramural activities in an enormous range of sports. You also have chances to travel other colleges in order to compete matches.</p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
