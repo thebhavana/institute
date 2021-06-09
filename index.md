@@ -124,7 +124,7 @@
                 </div>
                 <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                   <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Library</h2>
-                  <p class="leading-relaxed text-base">College has a huge library of 65,000 books based on science and technology, sports ,literature, music and other. Library building allows you to read books and take notes and is open upto 9pm. You can also issue books based on your interest for 1 month. We are soon going to provide you online library facility so that you can read books anywhere at your convenience. College students are free to use library. They dont have to pay special library fees for it. </p>
+                  <p class="leading-relaxed text-base">College has a huge library of 65,000 books based on science and technology, sports ,literature, music and other. Library building allows you to read books and take notes and is open upto 9pm. You can also issue books based on your interest for 1 month. We are soon going to provide you online library facility so that you can read books at your ease.</p>
                   <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                       <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -444,7 +444,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Classical Dance</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Arts</h1>
-                      <p class="leading-relaxed mb-3">Dance in India comprises numerous styles of dances, as classical or folk. As per aspects of Indian culture, they have been originated in different parts of India, according to the local traditions. Sangeet Natya Academy, the national academy for performing arts in India, recogonizes eight traditional dances as Indian classical dances.</p>
+                      <p class="leading-relaxed mb-3">Dance in India comprises numerous styles of dances, as classical or folk. As per aspects of Indian culture, they have been originated in different parts of India, according to the local traditions.</p>
                       <div class="flex items-center flex-wrap">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -473,7 +473,7 @@
                     <div class="p-6">
                       <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Coding and Programming</h2>
                       <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Science</h1>
-                      <p class="leading-relaxed mb-3">Coding and Programming interviews include Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, Linux commands and Concepts, Computer Science basics, Computer Networks, Object-Oriented Programming Concepts and Dynamic Programming. </p>
+                      <p class="leading-relaxed mb-3">Coding and Programming interviews include major topics like Data Structures, Algorithms, System design, Multithreaded and Concurrency, Database design and Sql, Linux commands and Concepts, Computer Science basics, and many more.</p>
                       <div class="flex items-center flex-wrap ">
                         <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                           <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
