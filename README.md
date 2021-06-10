@@ -1,6 +1,6 @@
 **_College Site_**
 
- <img src="https://media.giphy.com/media/MFOgIs6abu083mQUUh/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/h25bOPdcCJTj7FCgRV/giphy.gif" width="100" height="100"/><img src="https://media.giphy.com/media/MFOgIs6abu083mQUUh/giphy.gif" width="100" height="100"/>
 
  
 https://thebhavana.github.io/institute/
@@ -63,7 +63,7 @@ _**Agile Framework**_
 * Kanban
 ___________________________________________________________________________________________________________________________________________________
 
-## FEATURES
+## FEATURES 
 
  * _**College Name**_
  * _**Invite Mesage**_
