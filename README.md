@@ -10,7 +10,7 @@ https://thebhavana.github.io/institute/
  **This project is focused on creating a sample college site where you are able to see similar feautures as on official sites. _Agile Methodology_ has been used for this project. Here, we will be adding new features to project.**
 ___________________________________________________________________________________________________________________________________________________
 
-##### AGILE METHOLOGY : 
+##### AGILE METHODOLOGY : 
 
 1. Plan
 2. Implement
