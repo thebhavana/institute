@@ -7,11 +7,10 @@ https://thebhavana.github.io/institute/
 
 > What comes to your mind reading this? Looking to visit colleges for further studies.
  
-#### This project is focused on creating a sample college site where you are able to see similar feautures as on official sites. _Agile Methodology_ has been used for this project. Here, we will be adding new features to project.
+ **This project is focused on creating a sample college site where you are able to see similar feautures as on official sites. _Agile Methodology_ has been used for this project. Here, we will be adding new features to project.**
+___________________________________________________________________________________________________________________________________________________
 
-___________________________________________________________________________________________________________________________________________________________________________
-
-## AGILE METHOLOGY : 
+##### AGILE METHOLOGY : 
 
 1. Plan
 2. Implement
@@ -42,10 +41,6 @@ _**Agile Principles**_
 * Simplicity-the art of maximizing the amount of work not done-is essential.
 * The best architecture, requirements, and design emerges from self-organising teams.
 * At regular intervals the team reflects on how to become more effective, the tunes and adjusts its behaviour accordingly.
-
-___________________________________________________________________________________________________________________________________________________
-
-
  
  _**Benefits of Agile**_
  * Transparency
@@ -66,3 +61,19 @@ _**Agile Framework**_
 * Scrum
 * Lean
 * Kanban
+___________________________________________________________________________________________________________________________________________________
+
+ * **College Name**
+ * **Invite Mesage**
+ * **Teacher View**
+ * **Students View**
+ * **Courses Available**
+ * **Facilities**
+ * **Admission Process**
+ * **Clubs Information**
+ * **Locate on GoogleMaps**
+ * **Contact Option**
+ * **Blogs** 
+ * **Subscribe College Magazine ** 
+
+___________________________________________________________________________________________________________________________________________________
