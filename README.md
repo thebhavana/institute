@@ -18,9 +18,9 @@ ________________________________________________________________________________
 3. Test
 4. Review
 
-Change and adopt with market. Satisfy market needs and do so in very short term. All the factors combine make agile very suited for developing software these days. 
+_Change and adopt with market. Satisfy market needs and do so in very short term. All the factors combine make agile very suited for developing software these days._
 
-Agile Manifesto -: Values Promoted in Agile
+_**Agile Manifesto -: Values Promoted in Agile**_
 
 | TICK ☑️           | Cross ❎                    |
 |------------------|---------------------------|
@@ -42,11 +42,27 @@ _**Agile Principles**_
 * Simplicity-the art of maximizing the amount of work not done-is essential.
 * The best architecture, requirements, and design emerges from self-organising teams.
 * At regular intervals the team reflects on how to become more effective, the tunes and adjusts its behaviour accordingly.
+
+___________________________________________________________________________________________________________________________________________________
+
+
  
  _**Benefits of Agile**_
- 
  * Transparency
  * Predictable Costs and Schedule
  * Allows for Change
  * Improves Quality
  
+  <img src="https://user-images.githubusercontent.com/84395267/121442804-fd399f00-c9a9-11eb-860c-cb83c406d256.png" width="400" height="300"/>
+
+_**Agile Practices**_
+* Daily standup
+* Sprints
+* Splitting user stories
+* Pair programming
+* Test-driven development
+
+_**Agile Framework**_
+* Scrum
+* Lean
+* Kanban
