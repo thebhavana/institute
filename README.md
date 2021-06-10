@@ -63,17 +63,19 @@ _**Agile Framework**_
 * Kanban
 ___________________________________________________________________________________________________________________________________________________
 
- * **College Name**
- * **Invite Mesage**
- * **Teacher View**
- * **Students View**
- * **Courses Available**
- * **Facilities**
- * **Admission Process**
- * **Clubs Information**
- * **Locate on GoogleMaps**
- * **Contact Option**
- * **Blogs** 
- * **Subscribe College Magazine ** 
+## FEATURES
+
+ * _**College Name**_
+ * _**Invite Mesage**_
+ * _**Teacher View**_
+ * _**Students View**_
+ * _**Courses Available**_
+ * _**Facilities**_
+ * _**Admission Process**_
+ * _**Clubs Information**_
+ * _**Locate on GoogleMaps**_
+ * _**Contact Option**_
+ * _**Blogs**_ 
+ * _**Subscribe College Magazine**_ 
 
 ___________________________________________________________________________________________________________________________________________________
